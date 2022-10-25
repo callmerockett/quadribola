@@ -14,7 +14,7 @@ public class Player : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         transform.Rotate(new Vector3(0, Input.GetAxisRaw("Horizontal") * speed * Time.deltaTime, 0));
         transform.Rotate(new Vector3(0, 0, Input.GetAxisRaw("Vertical") * speed * Time.deltaTime));
