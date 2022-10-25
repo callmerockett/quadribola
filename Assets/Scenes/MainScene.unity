@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 931987be26c9646429c56f8a4692bb81, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44611478, g: 0.49588048, b: 0.574521, a: 1}
+  m_IndirectSpecularColor: {r: 0.35706472, g: 0.398513, b: 0.42650786, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -136,7 +136,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4487728861362852, guid: 14f9898d23d3b9049b7f7641ba191b29, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4487728861362852, guid: 14f9898d23d3b9049b7f7641ba191b29, type: 3}
       propertyPath: m_LocalScale.x
@@ -202,7 +202,8 @@ PrefabInstance:
       propertyPath: m_HeightmapPixelError
       value: 5
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114134987752067252, guid: 14f9898d23d3b9049b7f7641ba191b29, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 14f9898d23d3b9049b7f7641ba191b29, type: 3}
 --- !u!1001 &667229741
 PrefabInstance:
@@ -259,7 +260,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114098803217285372, guid: 2732d82eb9d690541af64238b0788b40, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2732d82eb9d690541af64238b0788b40, type: 3}
 --- !u!1 &705507993
 GameObject:
