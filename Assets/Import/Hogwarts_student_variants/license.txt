@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hogwarts student variants
+* source:	https://sketchfab.com/3d-models/hogwarts-student-variants-3d33f820c27847ff9f8dd0c8d5062262
+* author:	Jan Bláha (https://sketchfab.com/swifterik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hogwarts student variants" (https://sketchfab.com/3d-models/hogwarts-student-variants-3d33f820c27847ff9f8dd0c8d5062262) by Jan Bláha (https://sketchfab.com/swifterik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
