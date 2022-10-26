@@ -853,7 +853,7 @@ MonoBehaviour:
     keepConstantHandleSize: 0
     showNormalsInVertexMode: 0
     showBezierPathInVertexMode: 0
-    showDisplayOptions: 0
+    showDisplayOptions: 1
     showPathOptions: 1
     showVertexPathDisplayOptions: 0
     showVertexPathOptions: 1
@@ -1051,7 +1051,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1144,7 +1144,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &939677731
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1249,8 +1249,8 @@ GameObject:
   m_Component:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
-  - component: {fileID: 963194226}
   - component: {fileID: 963194229}
+  - component: {fileID: 963194226}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
